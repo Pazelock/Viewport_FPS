@@ -1,4 +1,4 @@
-# Viewport-FPS
+# Viewport FPS
 Viewport FPS Blender add-on
 
 ### About
