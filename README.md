@@ -28,3 +28,7 @@ In the **Preferences** section, you will find settings that change the counterâ€
 
 - **Normal FPS Color**: *Color used for normal FPS display*
 - **Warning FPS Color**: *Color used when FPS drops below the Warning FPS value*
+
+### Feedback
+Visit the link below to report an issue: 
+https://github.com/pazelock/viewport-fps/issues
