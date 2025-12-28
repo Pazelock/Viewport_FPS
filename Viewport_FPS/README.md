@@ -1,2 +1,2 @@
 # Latest stable version:
-Viewport_FPS_v.1.0.1.zip
+Viewport_FPS_v1.0.1.zip
